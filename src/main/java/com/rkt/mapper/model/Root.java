@@ -10,8 +10,6 @@ import lombok.Setter;
 @Builder
 @AllArgsConstructor
 public class Root {
-
     private String test;
     private MetaFields metaFields;
-
 }

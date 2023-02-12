@@ -10,8 +10,6 @@ import lombok.Setter;
 @Builder
 @AllArgsConstructor
 public class MetaField {
-    
     private String name;
     private String value;
-    
 }

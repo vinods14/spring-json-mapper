@@ -12,7 +12,5 @@ import java.util.List;
 @Builder
 @AllArgsConstructor
 public class MetaFields {
-
     private List<MetaField> metaField;
-
 }
