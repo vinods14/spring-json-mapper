@@ -11,7 +11,7 @@ import java.util.Arrays;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
-class MapperServiceTest {
+public class MapperServiceTest {
 
     private MapperService mapperService;
 
