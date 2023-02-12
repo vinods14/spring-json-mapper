@@ -4,7 +4,6 @@ import com.rkt.mapper.model.MetaField;
 import com.rkt.mapper.model.MetaFields;
 import com.rkt.mapper.model.Root;
 import com.rkt.mapper.util.MapperUtil;
-import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
